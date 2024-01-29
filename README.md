@@ -8,4 +8,6 @@ To use this you will need to:
 4. If you are going to use this with a webhook, add in your webhook, if not and you are using this as a bit of simple code to modify then enjoy.
 5. After uploading the python and requirements.txt to your cloud vm (or local if you want, Im not your mum do what you want) make sure you have given it permission to run as a service so that when you close your terminal session it will keep running.
 
-And that is about it. This isn't too complicated and Im just uploading it in case it helps someone else looking for a simple discord bot to call a webhook.
+And that is about it. This isn't too complicated and Im just uploading it in case it helps someone else looking for a simple discord bot to call a webhook. I have one automation path that goes off and parses input into XML using ChatGPT with the automation writing back to Discord the output after it's done it's thing for example, the python is pretty simple but if you wanted to you could use it as a base to modify.
+
+Oh, bmcbf is the name of my Discord Bot - BottyMcBotFace. Is a good bot. *pats head*
